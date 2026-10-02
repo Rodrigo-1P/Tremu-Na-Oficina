@@ -1,5 +1,9 @@
 # TREMU NA OFICINA
 
+# Link da aplicação no vercel pronta para utilização
+
+tremu-na-oficina-goncalves.vercel.app
+
 Jogo de inserção social (Trabalho Prático) — soletra palavras de **4 letras** com o **alfabeto gestual ASL** em frente à webcam.
 
 - ✅ **Stand-alone**: corre 100% no browser, sem servidores e sem APIs externas.
